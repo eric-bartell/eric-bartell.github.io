@@ -39,6 +39,7 @@ iframe{
   max-width: 100%;
 }
 img{
-  border: 5px solid #600000;
+  border: 50px solid #600000;
   max-width: 100%;
+  height: auto;
 }
